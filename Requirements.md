@@ -1,5 +1,7 @@
 # DS 310 – Introduction to Data Science
+
 # Final Project
+
 ### Part 1
 In this project you will investigate the impact of a number of automobile engine factors on the vehicle’s mpg. The dataset auto-mpg.csv contains information for 398 different automobile models. Information regarding the number of cylinders, displacement, horsepower, weight, acceleration, model year, origin, and car name as well as mpg are contained in the file. 
 Perform some initial analysis and create visualizations using Tableau Public (reference will be available in week 9).
