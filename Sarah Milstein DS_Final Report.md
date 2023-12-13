@@ -15,7 +15,7 @@ When I went onto Tableau to create a graph, I immediately put one together using
 
 Overall I do not think my model is perfect but it is a pretty good predictor. I learnt a lot about creating models and graphs from this assignment. 
 
-[Link Text](https://public.tableau.com/app/profile/z.milstein/viz/Cars_17021741900080/CARS)
+[Cars Tableau](https://public.tableau.com/app/profile/z.milstein/viz/Cars_17021741900080/CARS)
 
 ### Part 2:
 
@@ -31,7 +31,7 @@ One of my favorite things about dashboards though is the filtering tool so by cl
 
 I really enjoyed this assignment and hope to continue learning and using Tableau more.
 
-[Link Text](https://public.tableau.com/app/profile/z.milstein/viz/Calls_17022574477190/CallCenter)
+[Calls Tableau](https://public.tableau.com/app/profile/z.milstein/viz/Calls_17022574477190/CallCenter)
 
 
 
